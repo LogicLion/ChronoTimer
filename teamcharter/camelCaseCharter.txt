@@ -1,0 +1,103 @@
+﻿Group Charter: camelCase
+                                        
+Goals:
+                                                                                                        
+1. To gain a more intimate knowledge of the software life cycle by working as a group to develop a quality product worth an “A”.
+                                                                                                 
+1. To attain practical knowledge and experience of what it means to be a software engineer and to familiarize ourselves with the methods and practices that are required to pull together a team project.
+                                                
+                                                                                 
+Work Norms:                                                                                                         
+1. Agile Development
+
+
+Work tasks will be groomed to determine what work needs to be completed and assigned a priority. All group members will have an opportunity to work on all tasks that are open. Git will be used monitor who is working on what files and tasks. 
+
+
+2. Effort
+
+
+All team members are expected to put in the required amount of effort necessary to create a product that meets the specification of project description. Disciplinary action is described below.
+                                                   
+                        
+3. Work not up to standard:
+
+
+Group standards, regarding quality and timeliness of work, are important to uphold if we aim to succeed as a group. With goal 2 in mind we should always be putting forth the effort necessary to submit our best work. However, if there is a problem it should be handled in the following manner. It is understandable that at some point in this project someone may not be able to put in the time or effort necessary to meet group standards. If that should happen he must notify the group as soon as possible so the task can be redistributed, using the system established in group decisions and delegation, and the group can continue functioning at its highest level.                                                 
+                                                                 
+Meetings
+                                        
+1. Frequency
+
+
+Meetings will be held every Sunday at 7:00 PM  and as needed to complete the project.
+
+
+2. Length of meetings:
+
+
+Meetings may have to take as long as it takes, however meetings longer than 2 hours are discouraged. The purpose of meetings is to identify what work has been completed, what work remains, and what work is currently being blocked by a lack of development. Additional communication should occur via email.
+
+
+3. Missing a meeting
+
+
+An occasional missing of a meeting can be accepted. If however an individual repeatedly misses a meeting without good cause, some disciplinary action may have to be taken. Acceptable justification of a missed meeting includes, but is not limited to: injury, illness, family emergency, work, conflicting class schedule, or death (yourself or other).                        
+                                                                         
+4. Late for a meeting
+
+
+If an individual arrives at a meeting after the start time and the meeting has yet to get into purposeful conversation then it may be overlooked. However if there is no good excuse for being late and the meeting is clearly underway when the individual arrives then at the end of the meeting it will be discussed as to whether disciplinary action will have to be taken.          
+
+
+5. Disciplinary Procedure
+
+
+Any punishment for violation of the group work norms or meeting policies         will be decided by the other members of the group. (most likely snacks)                
+                                                                         
+Decision Making
+
+
+1. Approval of Design and Work
+
+
+Design decisions and tasking will be done collaboratively at the weekly group meeting.
+
+
+2. Conflict Resolution
+
+
+Differences about design and tasking decisions will be decided democratically.
+
+
+Facilitation Norms
+
+
+1. Facilitator Role
+
+
+There will not be an individual facilitator assigned at any given time. A facilitator will be assigned on an as needed basis when there are blockages in workflow. If code you have written is the cause of the blockage, you will most likely be responsible for fixing it.
+
+
+Communication Norms
+
+
+1. Regular Communication 
+                        
+This communication should include a simple update on ones progress of their portion of the project. When a member finishes up a portion of the project it should be checked in to Git with a comment. Once the changeset has been submitted the member should send out an email to the group notifying them that the code base has changed and optionally request code review.  If a member is having problems with their portion of the work, they should let the rest of the group knew immediately so they can received any needed help as soon as possible. 
+                                
+                        
+                
+
+
+
+
+We the undersigned...                                
+We, the team named camelCase agree with the Group Charter and will try our best to uphold it.
+                                
+                                
+Name _____________________________________         Date ______
+Name _____________________________________         Date ______
+Name _____________________________________         Date ______
+Name _____________________________________         Date ______
+Name _____________________________________        Date ______
